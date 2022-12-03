@@ -1,1 +1,3 @@
-OrderedDictionary { }
+OrderedDictionary {
+	'AdventOfCode2022.package' : #SquotCypressCodeSerializer
+}
