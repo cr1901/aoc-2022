@@ -1,7 +1,7 @@
 {
 	"category" : "AdventOfCode2022",
 	"classinstvars" : [
-		 ],
+		"PuzzleInput" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

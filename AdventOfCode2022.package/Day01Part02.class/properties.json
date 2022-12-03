@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "Day01Part01",
+	"name" : "Day01Part02",
 	"pools" : [
 		 ],
-	"super" : "AoC2022Day",
+	"super" : "Day01Part01",
 	"type" : "normal" }

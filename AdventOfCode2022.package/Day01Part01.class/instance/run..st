@@ -1,6 +1,6 @@
 execute
 run: input
-	"run using an arbitrary input string."
+	"Run the AoC Day 01, Part 01 problem."
 
 	|ord tally|
 	ord := OrderedCollection new.
@@ -12,6 +12,6 @@ run: input
 		ifFalse: [ tally := tally + l asInteger ]
 	].
 
-	"input may not be terminated with two newlines."
+	"Input may not be terminated with two newlines."
 	ord add: tally.
 	^ord max.
