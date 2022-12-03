@@ -1,0 +1,14 @@
+{
+	"category" : "AdventOfCode2022",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Input" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Day01Part01",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
