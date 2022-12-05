@@ -1,6 +1,6 @@
 execute
 versus: other 
-	"Play a game of RockPaperScissors"
+	"Play a game of Rock Paper Scissors."
 
 	|extra|
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 choice: rps
 	"Initialize RPS with an encrypted choice."
 

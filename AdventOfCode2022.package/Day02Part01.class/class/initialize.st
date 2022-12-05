@@ -1,4 +1,4 @@
-as yet unclassified
+class initialization
 initialize
 	"Initialize RPS simulation to defaults for player and opponent."
 

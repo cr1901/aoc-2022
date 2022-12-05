@@ -1,0 +1,14 @@
+{
+	"category" : "AdventOfCode2022",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FixedRPS",
+	"pools" : [
+		 ],
+	"super" : "PlayerRPS",
+	"type" : "normal" }

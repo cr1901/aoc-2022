@@ -1,5 +1,5 @@
 execute
 decrypt
-	"comment stating purpose of message"
+	"Decrypt string to integer result (Rock 1, Paper 2, Scissors 3)."
 
 	^self subclassResponsibility

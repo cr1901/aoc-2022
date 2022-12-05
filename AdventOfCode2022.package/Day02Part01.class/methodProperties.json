@@ -2,4 +2,5 @@
 	"class" : {
 		"initialize" : "WDJ 12/5/2022 00:43" },
 	"instance" : {
-		"run:" : "WDJ 12/5/2022 00:59" } }
+		"forEachLine:do:" : "WDJ 12/5/2022 02:01",
+		"run:" : "WDJ 12/5/2022 02:04" } }

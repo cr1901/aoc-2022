@@ -1,4 +1,4 @@
-as yet unclassified
+class initialization
 initialize
 	"Initialize RPS Dictionary for Player."
 
