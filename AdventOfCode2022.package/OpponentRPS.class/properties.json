@@ -1,0 +1,14 @@
+{
+	"category" : "AdventOfCode2022",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"RPSCodes" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OpponentRPS",
+	"pools" : [
+		 ],
+	"super" : "RockPaperScissors",
+	"type" : "normal" }

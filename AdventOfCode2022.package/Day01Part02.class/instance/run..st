@@ -5,7 +5,7 @@ run: input
 	|cals tally|
 	cals := self totalCalories: input.
 	tally := 0.
-
+	
 	(cals sorted: [:a :b| a >= b]) from: 1 to: 3 do: [:t |
 		tally := tally + t.
 	].

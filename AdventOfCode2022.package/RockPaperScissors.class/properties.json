@@ -1,0 +1,14 @@
+{
+	"category" : "AdventOfCode2022",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Points" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"choice" ],
+	"name" : "RockPaperScissors",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
